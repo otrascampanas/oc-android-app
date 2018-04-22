@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1524433891491,
+    "timestamp": 1524433986014,
     "version": 18,
     "name": "OCAA",
     "icon": "default-repo-icon.png",
@@ -16,10 +16,6 @@
   },
   "apps": [
     {
-      "authorName": "OtrasCampanas.org",
-      "categories": [
-        "Reading"
-      ],
       "suggestedVersionCode": "10201",
       "license": "Unknown",
       "name": "Otras Campanas",
@@ -42,6 +38,11 @@
             "otrascampanas-screencapture6.png"
           ],
           "featureGraphic": "otras-campanas-horizontal-1024x500.png"
+        },
+        "es": {
+          "description": "<p>Agrupamos <em><strong>medios alternativos</strong></em> de Argentina y la regi&oacute;n.<br /><br />Desde esta App pod&eacute;s acceder directamente a diarios, radios, agencias de noticias, revistas, etc, y sugerir nuevos. <br />Para m&aacute;s informaci&oacute;n visit&aacute; nuestra p&aacute;gina web <a href=\"http://otrascampanas.org\">OtrasCampanas.org</a></p>",
+          "featureGraphic": "otras-campanas-horizontal-1024x500.png",
+          "summary": "Agrupamos medios alternativos de Argentina y la regi\u00f3n."
         }
       }
     }
