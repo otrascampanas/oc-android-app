@@ -1,13 +1,12 @@
 {
   "repo": {
-    "timestamp": 1524429933373,
+    "timestamp": 1524430103138,
     "version": 18,
     "name": "OCAA",
     "icon": "default-repo-icon.png",
     "address": "https://raw.githubusercontent.com/otrascampanas/Otras-Campanas-Android-App/master/fdroid/repo",
     "description": "Otras Campanas Android APP",
     "mirrors": [
-      "https://raw.githubusercontent.com/otrascampanas/Otras-Campanas-Android-App/master/fdroid/repo/repo",
       "https://raw.githubusercontent.com/otrascampanas/Otras-Campanas-Android-App/master/fdroid/repo/repo"
     ]
   },
