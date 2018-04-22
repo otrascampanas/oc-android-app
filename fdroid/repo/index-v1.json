@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1524434440870,
+    "timestamp": 1524434451082,
     "version": 18,
     "name": "OCAA",
     "icon": "default-repo-icon.png",
@@ -21,7 +21,7 @@
       "name": "LICENSE",
       "added": 1524434306986,
       "packageName": "LICENSE",
-      "lastUpdated": 1524434440858
+      "lastUpdated": 1524434451074
     },
     {
       "authorName": "OtrasCampanas.org",
@@ -34,7 +34,7 @@
       "lastUpdated": 1524428466314,
       "localized": {
         "en-US": {
-          "description": "<p>Agrupamos <em><strong>medios alternativos</strong></em> de Argentina y la regi&oacute;n.<br /><br />Desde esta App pod&eacute;s acceder directamente a diarios, radios, agencias de noticias, revistas, etc, y sugerir nuevos. <br />Para m&aacute;s informaci&oacute;n visit&aacute; nuestra p&aacute;gina web <a href=\"http://otrascampanas.org\">OtrasCampanas.org</a></p>",
+          "description": "<p>Agrupamos <em><strong>medios alternativos</strong></em> de Argentina y la regi&oacute;n.<br /><br />Desde esta App pod&eacute;s acceder directamente a diarios, radios, agencias de noticias, revistas, etc, y sugerir nuevos.</p>\r\n<p><br />Para m&aacute;s informaci&oacute;n visit&aacute; nuestra p&aacute;gina web <a href=\"http://otrascampanas.org\">OtrasCampanas.org</a></p>",
           "summary": "Agrupamos medios alternativos de Argentina y la regi\u00f3n.",
           "phoneScreenshots": [
             "otrascampanas-screencapture0.png",
@@ -96,7 +96,7 @@
     ],
     "LICENSE": [
       {
-        "added": 1524434440858,
+        "added": 1524434451074,
         "apkName": "LICENSE",
         "hash": "60c66d170d6d9ef655c1f072f5cd681c9d8f5cecbca1257bd145f95c97409565",
         "hashType": "sha256",
