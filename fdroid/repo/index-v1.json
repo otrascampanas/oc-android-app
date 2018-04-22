@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1524433986014,
+    "timestamp": 1524434310469,
     "version": 18,
     "name": "OCAA",
     "icon": "default-repo-icon.png",
@@ -15,6 +15,14 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "suggestedVersionCode": "1524434306",
+      "license": "Unknown",
+      "name": "LICENSE",
+      "added": 1524434306986,
+      "packageName": "LICENSE",
+      "lastUpdated": 1524434310459
+    },
     {
       "suggestedVersionCode": "10201",
       "license": "Unknown",
@@ -83,6 +91,18 @@
         ],
         "versionCode": 10201,
         "versionName": "1.2.1"
+      }
+    ],
+    "LICENSE": [
+      {
+        "added": 1524434310459,
+        "apkName": "LICENSE",
+        "hash": "60c66d170d6d9ef655c1f072f5cd681c9d8f5cecbca1257bd145f95c97409565",
+        "hashType": "sha256",
+        "packageName": "LICENSE",
+        "size": 34500,
+        "versionCode": 1524434306,
+        "versionName": "2018-04-22"
       }
     ]
   }
