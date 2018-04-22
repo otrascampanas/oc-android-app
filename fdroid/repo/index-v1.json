@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1524433036428,
+    "timestamp": 1524433311226,
     "version": 18,
     "name": "OCAA",
     "icon": "default-repo-icon.png",
@@ -29,8 +29,8 @@
       "lastUpdated": 1524428466314,
       "localized": {
         "en-US": {
-          "description": "<p>Somos un colectivo de ciudadanos que se plantea la necesidad de encontrar voces alternativas a los medios hegem&oacute;nicos concentrados de la Rep&uacute;blica Argentina.<br /><br />Desde esta App pod&eacute;s acceder directamente a diarios, radios, agencias de noticias, revistas, etc, y sugerir nuevos. Visit&aacute; tambi&eacute;n nuestra p&aacute;gina web:<br /><br /><a href=\"http://otrascampanas.org\">OtrasCampanas.org</a></p>",
-          "summary": "Nucleamos medios alternativos de Argentina y la regi\u00f3n.",
+          "description": "<p>Somos un colectivo de ciudadanxs que se plantea la necesidad de encontrar voces alternativas a los medios hegem&oacute;nicos concentrados de la Rep&uacute;blica Argentina.<br /><br />Desde esta App pod&eacute;s acceder directamente a diarios, radios, agencias de noticias, revistas, etc, y sugerir nuevos. Visit&aacute; tambi&eacute;n nuestra p&aacute;gina web:<br /><br /><a href=\"http://otrascampanas.org\">OtrasCampanas.org</a></p>",
+          "summary": "Agrupamos medios alternativos de Argentina y la regi\u00f3n.",
           "phoneScreenshots": [
             "otrascampanas-screencapture0.png",
             "otrascampanas-screencapture0a.png",
