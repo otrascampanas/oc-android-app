@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1524588151445,
+    "timestamp": 1524588275912,
     "version": 18,
     "name": "OCAA",
     "icon": "default-repo-icon.png",
@@ -16,12 +16,19 @@
   },
   "apps": [
     {
+      "authorName": "OtrasCampanas.org",
       "suggestedVersionCode": "1524434306",
       "license": "Unknown",
       "name": "LICENSE",
       "added": 1524434306986,
       "packageName": "LICENSE",
-      "lastUpdated": 1524588151438
+      "lastUpdated": 1524588275900,
+      "localized": {
+        "en-US": {
+          "description": "<p><span class=\"js-about-module-abstr\">GNU General Public License v3.0<br /></span></p>",
+          "summary": "GPL v3"
+        }
+      }
     },
     {
       "authorName": "OtrasCampanas.org",
@@ -96,7 +103,7 @@
     ],
     "LICENSE": [
       {
-        "added": 1524588151438,
+        "added": 1524588275900,
         "apkName": "LICENSE",
         "hash": "60c66d170d6d9ef655c1f072f5cd681c9d8f5cecbca1257bd145f95c97409565",
         "hashType": "sha256",
