@@ -1,13 +1,13 @@
 {
   "repo": {
-    "timestamp": 1527034070264,
+    "timestamp": 1527034153586,
     "version": 18,
     "name": "Otras Campanas",
     "icon": "default-repo-icon.png",
     "address": "https://raw.githubusercontent.com/otrascampanas/oc-android-app/master/fdroid/repo",
     "description": "Otras Campanas Android APP",
     "mirrors": [
-      "http://otrascampanas.duckdns.org/repo",
+      "http://otrascampanas.duckdns.org/fdroid/repo",
       "https://raw.githubusercontent.com/otrascampanas/oc-android-app/master/fdroid/repo/repo"
     ]
   },
