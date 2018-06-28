@@ -173,7 +173,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-/*------------------------------------*    $CONTENTS
+/*------------------------------------*\
+    $CONTENTS
 \*------------------------------------*/
 /**
  * STYLE GUIDE VARIABLES------------------Declarations of Sass variables
@@ -478,7 +479,8 @@ input.mdl-button[type="submit"] {
   z-index: 0;
   overflow: hidden; }
   .mdl-button[disabled] .mdl-button__ripple-container .mdl-ripple, .rm-app-card-footer-action button[disabled] .mdl-button__ripple-container .mdl-ripple,
-  .mdl-button.mdl-button--disabled .mdl-button__ripple-container .mdl-ripple, .rm-app-card-footer-action button.mdl-button--disabled .mdl-button__ripple-container .mdl-ripple {
+  .mdl-button.mdl-button--disabled .mdl-button__ripple-container .mdl-ripple,
+  .rm-app-card-footer-action button.mdl-button--disabled .mdl-button__ripple-container .mdl-ripple {
     background-color: transparent; }
 
 .mdl-button--primary.mdl-button--primary {
@@ -547,7 +549,8 @@ input.mdl-button[type="submit"] {
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-/*------------------------------------*    $CONTENTS
+/*------------------------------------*\
+    $CONTENTS
 \*------------------------------------*/
 /**
  * STYLE GUIDE VARIABLES------------------Declarations of Sass variables
@@ -753,7 +756,7 @@ input.mdl-button[type="submit"] {
   font-size: 16px;
   line-height: normal;
   width: 100%;
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0);
   padding: 8px;
   box-sizing: border-box; }
   .mdl-card__actions.mdl-card--border {
@@ -802,7 +805,8 @@ input.mdl-button[type="submit"] {
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-/*------------------------------------*    $CONTENTS
+/*------------------------------------*\
+    $CONTENTS
 \*------------------------------------*/
 /**
  * STYLE GUIDE VARIABLES------------------Declarations of Sass variables
@@ -1479,7 +1483,8 @@ input.mdl-button[type="submit"] {
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-/*------------------------------------*    $CONTENTS
+/*------------------------------------*\
+    $CONTENTS
 \*------------------------------------*/
 /**
  * STYLE GUIDE VARIABLES------------------Declarations of Sass variables
@@ -2157,7 +2162,8 @@ input.mdl-button[type="submit"] {
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-/*------------------------------------*    $CONTENTS
+/*------------------------------------*\
+    $CONTENTS
 \*------------------------------------*/
 /**
  * STYLE GUIDE VARIABLES------------------Declarations of Sass variables
@@ -2581,7 +2587,8 @@ main {
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-/*------------------------------------*    $CONTENTS
+/*------------------------------------*\
+    $CONTENTS
 \*------------------------------------*/
 /**
  * STYLE GUIDE VARIABLES------------------Declarations of Sass variables
@@ -2789,7 +2796,8 @@ main {
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-/*------------------------------------*    $CONTENTS
+/*------------------------------------*\
+    $CONTENTS
 \*------------------------------------*/
 /**
  * STYLE GUIDE VARIABLES------------------Declarations of Sass variables

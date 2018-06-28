@@ -1,13 +1,13 @@
 {
   "repo": {
-    "timestamp": 1527034163085,
+    "timestamp": 1530155339587,
     "version": 18,
     "name": "Otras Campanas",
     "icon": "default-repo-icon.png",
     "address": "https://raw.githubusercontent.com/otrascampanas/oc-android-app/master/fdroid/repo",
     "description": "Otras Campanas Android APP",
     "mirrors": [
-      "http://otrascampanas.duckdns.org/fdroid/repo",
+      "https://otrascampanas.org/fdroid/repo/repo",
       "https://raw.githubusercontent.com/otrascampanas/oc-android-app/master/fdroid/repo/repo"
     ]
   },
@@ -28,6 +28,7 @@
       "localized": {
         "en-US": {
           "summary": "Agrupamos medios alternativos de Argentina y la regi\u00f3n.",
+          "description": "<p>Agrupamos <em><strong>medios alternativos</strong></em> de Argentina y la regi&oacute;n.<br /><br />Desde esta App pod&eacute;s acceder directamente a diarios, radios, agencias de noticias, revistas, etc, y sugerir nuevos.</p>\r\n<p><br />Para m&aacute;s informaci&oacute;n visit&aacute; nuestra p&aacute;gina web <a href=\"http://otrascampanas.org\">OtrasCampanas.org</a></p>",
           "featureGraphic": "otras-campanas-horizontal-1024x500.png",
           "phoneScreenshots": [
             "otrascampanas-screencapture0.png",
@@ -38,13 +39,12 @@
             "otrascampanas-screencapture4.png",
             "otrascampanas-screencapture5.png",
             "otrascampanas-screencapture6.png"
-          ],
-          "description": "<p>Agrupamos <em><strong>medios alternativos</strong></em> de Argentina y la regi&oacute;n.<br /><br />Desde esta App pod&eacute;s acceder directamente a diarios, radios, agencias de noticias, revistas, etc, y sugerir nuevos.</p>\r\n<p><br />Para m&aacute;s informaci&oacute;n visit&aacute; nuestra p&aacute;gina web <a href=\"http://otrascampanas.org\">OtrasCampanas.org</a></p>"
+          ]
         },
         "es": {
           "summary": "Agrupamos medios alternativos de Argentina y la regi\u00f3n.",
-          "featureGraphic": "otras-campanas-horizontal-1024x500.png",
-          "description": "<p>Agrupamos <em><strong>medios alternativos</strong></em> de Argentina y la regi&oacute;n.<br /><br />Desde esta App pod&eacute;s acceder directamente a diarios, radios, agencias de noticias, revistas, etc, y sugerir nuevos. <br /><br />Para m&aacute;s informaci&oacute;n visit&aacute; nuestra p&aacute;gina web <a href=\"http://otrascampanas.org\">OtrasCampanas.org</a></p>"
+          "description": "<p>Agrupamos <em><strong>medios alternativos</strong></em> de Argentina y la regi&oacute;n.<br /><br />Desde esta App pod&eacute;s acceder directamente a diarios, radios, agencias de noticias, revistas, etc, y sugerir nuevos. <br /><br />Para m&aacute;s informaci&oacute;n visit&aacute; nuestra p&aacute;gina web <a href=\"http://otrascampanas.org\">OtrasCampanas.org</a></p>",
+          "featureGraphic": "otras-campanas-horizontal-1024x500.png"
         }
       }
     }
