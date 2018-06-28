@@ -1,14 +1,14 @@
 {
   "repo": {
-    "timestamp": 1530155339587,
+    "timestamp": 1530155762293,
     "version": 18,
     "name": "Otras Campanas",
     "icon": "default-repo-icon.png",
-    "address": "https://raw.githubusercontent.com/otrascampanas/oc-android-app/master/fdroid/repo",
+    "address": "https://otrascampanas.org/fdroid/repo/",
     "description": "Otras Campanas Android APP",
     "mirrors": [
-      "https://otrascampanas.org/fdroid/repo/repo",
-      "https://raw.githubusercontent.com/otrascampanas/oc-android-app/master/fdroid/repo/repo"
+      "https://otrascampanas.org/fdroid/repo/",
+      "https://raw.githubusercontent.com/otrascampanas/oc-android-app/master/fdroid/repo/"
     ]
   },
   "requests": {
